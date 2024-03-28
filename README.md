@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halilben22&" alt="halilben22" /></p>
 
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+https://github.com/YOUR_USERNAME/halilben22/blob/output/github-contribution-grid-snake.gif
