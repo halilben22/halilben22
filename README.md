@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **spring boot,go for backend**
 
-- 💬 Ask me about **spring boot,kotlin for android development**
+- 💬 Ask me about **spring boot,go for backend;kotlin for android development**
 
 - 📫 How to reach me **halilattar01@gmail.com**
 
